@@ -2,28 +2,12 @@
     "name": "Shesqi | Games",
     "downloads": [
       {
-        "title": "Cultic (Shesqi)",
+        "title": "Cultic (portable)",
         "uris": [
           "magnet:?xt=urn:btih:BEDBDD0843680BEE690EEEA3F44DBEA5059E880D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Cultic%20%5BP%5D%20%5BENG%20%2F%20ENG%5D%20(2022%2C%20FPS)%20(build%2010812574)%20%5BPortable%5D"
         ],
         "uploadDate": "2023-08-15T23:00:00.000Z",
         "fileSize": "3.49 GB"
-      },
-      {
-        "title": "Wanted: Dead (Shesqi)",
-        "uris": [
-          "magnet:?xt=urn:btih:0FE64E7A94BCB4DB0D2CFD01E4804FBE48774732&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Wanted%3A%20Dead%20%5BP%5D%20%5BENG%20%2B%205%20%2F%20ENG%5D%20(2023%2C%20TPS)%20(1.12)%20%5BPortable%5D"
-        ],
-        "uploadDate": "2024-02-16T23:00:00.000Z",
-        "fileSize": "33.17 GB"
-      },
-      {
-        "title": "Star Wars Jedi Knight - Jedi Academy [Linux] (Shesqi)",
-        "uris": [
-          "magnet:?xt=urn:btih:A11B85FDA9A47C04D4C276516E077C9EB80B6417&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=Star%20Wars%3A%20Jedi%20Knight%20-%20Jedi%20Academy%20%5Bx86%5D%20%5BMulti%5D%20%5BWine%5D"
-        ],
-        "uploadDate": "2022-01-04T23:00:00.000Z",
-        "fileSize": "1.19 GB"
       }
     ]
 }
