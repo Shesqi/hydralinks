@@ -1,5 +1,5 @@
 {
-    "name": "Shesqi | FPS",
+    "name": "Shesqi | Games",
     "downloads": [
       {
         "title": "Cultic (Shesqi)",
@@ -8,6 +8,14 @@
         ],
         "uploadDate": "2023-08-15T23:00:00.000Z",
         "fileSize": "3.49 GB"
+      },
+      {
+        "title": "Wanted: Dead (Shesqi)",
+        "uris": [
+          "magnet:?xt=urn:btih:0FE64E7A94BCB4DB0D2CFD01E4804FBE48774732&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Wanted%3A%20Dead%20%5BP%5D%20%5BENG%20%2B%205%20%2F%20ENG%5D%20(2023%2C%20TPS)%20(1.12)%20%5BPortable%5D"
+        ],
+        "uploadDate": "2024-02-16T23:00:00.000Z",
+        "fileSize": "3.49 GB"
       }
     ]
-  }
+}
